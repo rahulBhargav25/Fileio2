@@ -1,0 +1,2 @@
+Java is oops 
+ and it is statically typed language
